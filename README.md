@@ -8,19 +8,19 @@ There are a countless methods how to pause the task sequence - this is one of th
 
 In order to make this work, you have to do the following : 
 
-1. create a package 
+1. Create a Package 
 
-2. Add Run command line 
+2. Add Run Command Line 
 
-3. Command line: wait.exe . 
+3. Command line: Pause.exe 
 
-4. In case you need to open up cmd, modify command:  wait.exe /cmd
+4. In case you need to open up cmd, modify command:  Pause.exe /cmd
 
-5. point to the right package ( in case of the SCCM ) 
+5. Point to the Package ( in case of the SCCM ) 
 
 ![ScreenShot](https://github.com/DKusnir/Pause-SCCM-MDT-Task-sequence/blob/master/SCCM.JPG)
 
-==========================================
+============= Version Information ============= 
 
 Version 1.0.0.6 - Add Dark Flat theme
 
